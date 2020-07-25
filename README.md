@@ -5,7 +5,7 @@
          alt="python-v3.6+">
     <img src="https://img.shields.io/badge/Machine-Learning-red.svg"
          alt="Machine-Learning">
-    <img src="https://img.shields.io/badge/Linear-regression-yellow.svg"
+    <img src="https://img.shields.io/badge/Logistic-regression-yellow.svg"
          alt="Logistic-regression">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
          alt="contributions-welcome">
